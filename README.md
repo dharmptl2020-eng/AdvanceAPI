@@ -60,8 +60,8 @@ See [SETUP.md](SETUP.md) for detailed setup instructions.
 ## 🏗️ Modern Stack
 
 - **REST**: FastAPI + Uvicorn + Pydantic
-- **GraphQL**: Strawberry with async resolvers
 - **Database**: PostgreSQL + SQLAlchemy (future)
+- **GraphQL**: Strawberry with async resolvers
 - **AI**: OpenAI API for query generation
 - **Testing**: Pytest + pytest-asyncio
 
